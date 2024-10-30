@@ -1,0 +1,15 @@
+{
+  "name": "thisissostupid",
+  "version": "1.0.0",
+  "description": "fuckme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "break_eternity.js": "^2.1.1",
+    "typescript": "^5.6.3"
+  }
+}
